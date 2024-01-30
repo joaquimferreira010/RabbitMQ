@@ -1,0 +1,2 @@
+# RabbitMQ
+Repositório RabbitMQ
